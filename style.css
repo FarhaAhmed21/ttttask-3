@@ -1,0 +1,94 @@
+.nav-bar{
+    background-color: black;
+}
+
+.nav-img{
+    background-color: black;
+    width: 30%;
+    float: left;
+}
+.nav-content{
+    background-color: black;
+    width: 30%;
+    float: right;
+}
+.nav-img img{
+    width: 100px;
+    height: 70px;
+    padding-left: 20px;
+}
+.clearfix{
+    clear: both;
+}
+.nav-bar .nav-content ul li{
+    background-color: black;
+    list-style: none;
+    float: left;
+    padding: 15px 25px;
+    font-size: 20px;
+}
+.nav-bar .nav-content ul li a{
+    text-decoration: none;
+    color: azure;
+   
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+.welcome{
+    background-image: url(img/sailboat.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+    overflow: auto;
+}
+.welcome-content{
+    font-size:xx-large;
+    text-align: center;
+    margin-top: 215px;
+}
+.welcome .welcome-content button{
+    padding:15px 25px;
+    text-align: center;
+    border: 3px solid black;
+    border-radius: 24px;
+    font-weight: bold;
+    font-size: large;
+}
+.team {
+background-color: black;
+}
+.team .our{
+    text-align: center;
+    color: chartreuse;
+    font-size:large;
+}
+ .pic {
+    width: 25%;
+    float: left;
+    text-align: center;
+    color: aliceblue;
+}
+.pic img{
+    border-radius: 50%;
+    border: 4px solid red;
+    outline: 3px solid black;
+}
+.our-team{
+ margin: auto;
+width: 70%;
+}
+.last .last-text{
+    color: red;
+    text-align: center;
+    font-size:larger;
+    margin: 50px;
+}
+.ele{
+   
+    text-align: center;
+    width: 33.333333%;
+    float: left;
+margin: 15px 0px;
+}
